@@ -1,0 +1,177 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="white">
+        <meta name="wap-font-scale" content="no">
+        
+    <meta name='keywords' content='新52蝙蝠侠53,新52蝙蝠侠漫画,NEW52 蝙蝠侠,,漫画,在线漫画,手机漫画,动漫之家'/><meta name='Description' content='动漫之家手机漫画提供新52蝙蝠侠53在线漫画，是国内新52蝙蝠侠漫画最全更新最快的手机漫画网。新52蝙蝠侠漫画介绍：蝙蝠侠(Batman)是美国家喻户晓的漫画英雄，蝙蝠侠的创造灵感来自于佐罗和蝙蝠，一个是家喻户晓的大英雄，一个充满神秘感的生物，二者的完美结合便诞生了蝙蝠侠这个角色，在1939年一本叫“Detective Comics”的书里面，蝙蝠侠首度亮相，起初他与恶人交手曾经试过开枪杀人，但后来变成一个绝不杀生的的正义之士。同期的好多漫画都是讲一些超自然力量，而蝙蝠侠漫画就将超能力同侦探结合，利用智慧、科技去对付罪恶，这就是蝙蝠侠成为经典的原因。和“超人”一样，蝙蝠侠已经成为了著名的DC漫画公司旗下的经典人物之一，其设定在人气上完全可以与超人抗衡。'/>
+    <title>新52蝙蝠侠-新52蝙蝠侠漫画-新52蝙蝠侠53在线漫画-动漫之家手机漫画</title>
+
+    <link href="/css/global.css?2015111317" rel="stylesheet" type="text/css"/>
+    <link type="text/css" href="/css/style.css?2015102217" rel="stylesheet"/>
+
+    <script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+    <script type="text/javascript" src="/js/domain.js"></script>
+    <script type="text/javascript" src="/js/m_reader.js?2015102416"></script>
+    <script type="text/javascript" src="/js/TSB.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+</head>
+
+<body>
+
+    
+    <script type="text/javascript" src="/js/sort.js" ></script>
+
+    <div class="Introduct">
+        <!--分享弹层-->
+        <div class="sharWin">
+            <div class="sharClose"></div>
+            <p class="sharBar">分享到：</p>
+            <div class="sharBox">
+                <div id="bdshare" class="bdshare_t bds_tools">
+                    <a class="bds_tsina sina" style=""></a>
+                    <a class="bds_tqq tqq"></a>
+                    <a class="bds_qzone zone"></a>
+                </div>
+            </div>
+        </div>
+        <!--分享弹层 end-->
+        <!--head-->
+        <div class="subHeader">
+            <div class="BarTit" id="comicName">新52蝙蝠侠</div>
+            <a href="javascript:" class="iconRet" onclick="goBack()"></a>
+            <a href="/" class="iconHome"></a>
+            <a href="javascript:" class="iconShar" onClick="sharwindow()"></a>
+        </div>
+        <!--head end-->
+
+        <div class="Introduct_Sub autoHeight">
+            <div class="pic" id="Cover">
+                <img src="https://images.dmzj.com/webpic/14/bianfuxia20111010.jpg" width="100%" title="新52蝙蝠侠">
+            </div>
+            <div class="sub_r">
+                <p class="txtItme">
+                    <span class="icon icon01"></span>
+                                            <a class="pd introName" href="/tags/dccomics.html">DC Comics</a>
+                                    </p>
+                <p class="txtItme">
+                    <span class="icon icon02"></span>
+                                            <a class="pd" href="/tags/maoxian.html">冒险</a>
+                                    </p>
+                <p class="txtItme">
+                    <span class="icon icon02"></span>
+                                            <a class="pd" href="/tags/shaonian.html">少年漫画</a>
+                                        <a class="pd" href="/tags/oumei.html">欧美</a>
+                    <a class="pd" href="/tags/lianzaizhong.html">连载中</a>
+                </p>
+                <p class="txtItme">
+                    <span class="icon icon03"></span>
+                    <span class="date">2016-06-17 10:06</span>
+                </p>
+
+                <a class="Btn fl" id="Subscribe" onclick="addSubscribe(7843)">订阅漫画</a>
+                <a class="Btn right" id="continusRead" href=""></a>
+            </div>
+        </div>
+        <p class="txtDesc autoHeight">介绍:蝙蝠侠(Batman)是美国家喻户晓的漫画英雄，蝙蝠侠的创造灵感来自于佐罗和蝙蝠，一个是家喻户晓的大英雄，一个充满神秘感的生物，二者的完美结合便诞生了蝙蝠侠这个角色，在1939年一本叫“Detective Comics”的书里面，蝙蝠侠首度亮相，起初他与恶人交手曾经试过开枪杀人，但后来变成一个绝不杀生的的正义之士。同期的好多漫画都是讲一些超自然力量，而蝙蝠侠漫画就将超能力同侦探结合，利用智慧、科技去对付罪恶，这就是蝙蝠侠成为经典的原因。和“超人”一样，蝙蝠侠已经成为了著名的DC漫画公司旗下的经典人物之一，其设定在人气上完全可以与超人抗衡。</p>
+        <p class="openBtn"></p>
+        <ul class="subNav">
+                        <li><a onclick="openApp()"><span class="a1">客户端观看</span></a></li>
+            <li><a href="#comm"><span class="a2">评论</span></a></li>
+            <li class="last">
+            	<a href="/related/7843.html">
+                	<span class="a3">相关作品</span>
+                </a>
+            </li>
+        </ul>
+
+        <div class="Sub_H2 autoHeight">
+            <a class="Seq asc"  onclick="sort.asc(jsonData)"></a>
+            <a class="Seq desc cur" onclick="sort.desc(jsonData)"></a>
+            <p class="SeqT">排序：</p>
+            <span class="icon Icon9"></span>
+            <span class="Title">章节列表</span>
+        </div>
+
+        <div id="list" ></div>
+
+    </div>
+
+    <div id="Comment_m_Box">
+
+    </div>
+    <script type="text/javascript">
+            var obj_id = "7843"; // 作品id
+            var authoruid = "";
+            var is_Original='1';
+            var comment_type='4';
+            var isToggle = 0; //1开启到下端显示， 0关闭
+            var dt = 'week'; //热门评论请求参数
+    </script>
+    <script type="text/javascript" src="https://static.dmzj.com/module/js/mobile_New_Comment2_17.3.js?20170727"></script>
+    <script type="text/javascript">
+        $(function(){$('.bottom,#khdDown').hide();});
+        initIntroData([{"title":"\u8fde\u8f7d","data":[{"id":50468,"comic_id":7843,"chapter_name":"\u7b2c52\u5377","chapter_order":630,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":49433,"comic_id":7843,"chapter_name":"\u7b2c51\u5377","chapter_order":620,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":48371,"comic_id":7843,"chapter_name":"\u7b2c50\u5377","chapter_order":610,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":46939,"comic_id":7843,"chapter_name":"\u7b2c49\u5377","chapter_order":600,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":45844,"comic_id":7843,"chapter_name":"\u7b2c48\u5377","chapter_order":590,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":45092,"comic_id":7843,"chapter_name":"\u5e74\u520a4","chapter_order":580,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":44637,"comic_id":7843,"chapter_name":"\u7b2c47\u5377","chapter_order":570,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":43834,"comic_id":7843,"chapter_name":"\u7b2c46\u5377","chapter_order":560,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":42996,"comic_id":7843,"chapter_name":"\u5e74\u520a3","chapter_order":550,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":42296,"comic_id":7843,"chapter_name":"\u7b2c45\u5377","chapter_order":540,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":41592,"comic_id":7843,"chapter_name":"\u7b2c44\u5377","chapter_order":530,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":41331,"comic_id":7843,"chapter_name":"\u7b2c43\u5377","chapter_order":520,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":39258,"comic_id":7843,"chapter_name":"\u7b2c42\u5377","chapter_order":510,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":38940,"comic_id":7843,"chapter_name":"\u7b2c41\u5377","chapter_order":500,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":37904,"comic_id":7843,"chapter_name":"\u7b2c40\u5377","chapter_order":490,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":35928,"comic_id":7843,"chapter_name":"\u7b2c39\u5377","chapter_order":480,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":35632,"comic_id":7843,"chapter_name":"\u7b2c38\u5377","chapter_order":470,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":34005,"comic_id":7843,"chapter_name":"\u7b2c37\u5377","chapter_order":460,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":32947,"comic_id":7843,"chapter_name":"\u7b2c36\u5377","chapter_order":450,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":31554,"comic_id":7843,"chapter_name":"\u672a\u6765\u672b\u65e501","chapter_order":440,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":31457,"comic_id":7843,"chapter_name":"\u7b2c35\u5377","chapter_order":430,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":30900,"comic_id":7843,"chapter_name":"\u7b2c34\u5377","chapter_order":420,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":29689,"comic_id":7843,"chapter_name":"\u7b2c33\u5377","chapter_order":410,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":29001,"comic_id":7843,"chapter_name":"\u7b2c32\u5377","chapter_order":400,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":28675,"comic_id":7843,"chapter_name":"\u7b2c31\u5377","chapter_order":390,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27988,"comic_id":7843,"chapter_name":"\u7b2c30\u5377","chapter_order":380,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27285,"comic_id":7843,"chapter_name":"\u7b2c29\u5377","chapter_order":370,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":26755,"comic_id":7843,"chapter_name":"\u7b2c28\u5377","chapter_order":360,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":26784,"comic_id":7843,"chapter_name":"\u7b2c27\u5377","chapter_order":351,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":26375,"comic_id":7843,"chapter_name":"\u7b2c26\u5377","chapter_order":350,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":25171,"comic_id":7843,"chapter_name":"\u7b2c25\u5377","chapter_order":340,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":24614,"comic_id":7843,"chapter_name":"\u7b2c24\u5377","chapter_order":330,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":26921,"comic_id":7843,"chapter_name":"\u7b2c23.2\u5377\u8c1c\u8bed\u4eba#1","chapter_order":321,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":24157,"comic_id":7843,"chapter_name":"\u7b2c23.1\u5377\u5c0f\u4e11#1","chapter_order":320,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":23839,"comic_id":7843,"chapter_name":"\u5e74\u520a2","chapter_order":310,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":23582,"comic_id":7843,"chapter_name":"\u7b2c23\u5377","chapter_order":300,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":22988,"comic_id":7843,"chapter_name":"\u7b2c22\u5377","chapter_order":290,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":22617,"comic_id":7843,"chapter_name":"\u7b2c21\u5377","chapter_order":280,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27037,"comic_id":7843,"chapter_name":"\u7b2c20\u5377","chapter_order":272,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":23669,"comic_id":7843,"chapter_name":"\u7b2c19\u5377","chapter_order":271,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":21962,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce18","chapter_order":270,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":21739,"comic_id":7843,"chapter_name":"\u7b2c18\u5377","chapter_order":260,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":21769,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u7ea2\u5934\u7f69\u4e0e\u6cd5\u5916\u800517","chapter_order":251,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":21272,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce17","chapter_order":250,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":21189,"comic_id":7843,"chapter_name":"\u7b2c17\u5377","chapter_order":240,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27094,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u5c11\u5e74\u6cf0\u576616","chapter_order":198,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27093,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u7ea2\u5934\u7f69\u4e0e\u6cd5\u5916\u800516","chapter_order":197,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":20762,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u591c\u7ffc16","chapter_order":196,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27092,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u732b\u597316","chapter_order":195,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27089,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u4fa6\u63a2\u6f2b\u753b16","chapter_order":194,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27088,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u4fa0\u4e0e\u7f57\u5bbe16","chapter_order":193,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27091,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce16","chapter_order":192,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":24473,"comic_id":7843,"chapter_name":"\u7b2c16\u5377","chapter_order":191,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27087,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u5c11\u5e74\u6cf0\u576615","chapter_order":188,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27086,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u6562\u6b7b\u961f15","chapter_order":187,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":20744,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u7ea2\u5934\u7f69\u4e0e\u6cd5\u5916\u800515","chapter_order":186,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":20297,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u591c\u7ffc15","chapter_order":185,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27085,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u732b\u597315","chapter_order":183,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27084,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u4fa6\u63a2\u6f2b\u753b15","chapter_order":182,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27083,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u4fa0\u4e0e\u7f57\u5bbe15","chapter_order":181,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27090,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce15","chapter_order":180,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":20233,"comic_id":7843,"chapter_name":"\u7b2c15\u5377","chapter_order":179,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27082,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u6562\u6b7b\u961f14","chapter_order":172,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27081,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u732b\u597314","chapter_order":171,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":19926,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce14\u5377","chapter_order":170,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":19866,"comic_id":7843,"chapter_name":"\u7b2c14\u5377","chapter_order":160,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27080,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u732b\u597313","chapter_order":151,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":19793,"comic_id":7843,"chapter_name":"\u652f\u7ebf\u8759\u8760\u5973\u90ce13","chapter_order":150,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":19685,"comic_id":7843,"chapter_name":"\u7b2c13\u5377","chapter_order":140,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":19021,"comic_id":7843,"chapter_name":"\u7b2c12\u5377","chapter_order":130,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":18793,"comic_id":7843,"chapter_name":"\u7b2c11\u5377","chapter_order":120,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":18384,"comic_id":7843,"chapter_name":"\u7b2c10\u5377","chapter_order":110,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":18270,"comic_id":7843,"chapter_name":"\u6025\u51bb\u4eba\u4e4b\u75db\u7b2c01\u5377","chapter_order":100,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":17912,"comic_id":7843,"chapter_name":"\u7b2c09\u5377","chapter_order":90,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":17722,"comic_id":7843,"chapter_name":"\u7b2c08\u5377","chapter_order":80,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":17512,"comic_id":7843,"chapter_name":"\u7b2c07\u5377","chapter_order":70,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":17245,"comic_id":7843,"chapter_name":"\u7b2c06\u5377","chapter_order":60,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":16879,"comic_id":7843,"chapter_name":"\u7b2c05\u5377","chapter_order":50,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":16681,"comic_id":7843,"chapter_name":"\u7b2c04\u5377","chapter_order":40,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":16480,"comic_id":7843,"chapter_name":"\u7b2c03\u5377","chapter_order":30,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":16354,"comic_id":7843,"chapter_name":"\u7b2c02\u5377","chapter_order":20,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":15789,"comic_id":7843,"chapter_name":"\u7b2c01\u5377","chapter_order":10,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0},{"id":27035,"comic_id":7843,"chapter_name":"\u7b2c0\u5377","chapter_order":0,"chaptertype":0,"title":"\u8fde\u8f7d","sort":0}]}]);
+
+        function openApp(){
+            setTimeout(function() {
+                window.location = "https://www.dmzj.com/app/mobile.html";
+            }, 25);
+
+            var iOS = /iPad|iPhone|iPod/.test( navigator.userAgent );
+//            console.log(navigator.userAgent);
+            if(iOS) {
+//                console.log('调用ios');
+                window.location = "dmzj://";
+            } else {
+//                console.log('调用android');
+                window.location = "dmzjandroid://www.dmzj.com/app/";
+            }
+        }
+
+    </script>
+
+    <!-- Baidu Button BEGIN -->
+    <script type="text/javascript" id="bdshare_js" data="type=tools&mini=1" ></script>
+    <script type="text/javascript" id="bdshell_js"></script>
+    <script type="text/javascript">
+        document.getElementById('bdshell_js').src = "https://static.dmzj.com/baidushare/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+    </script>
+    <!-- Baidu Button END -->
+
+        
+	<div class="bottom">
+        <div class="pageLine"><img src="/images/head_line.gif" width="100%"></div>
+        <ul class="subNav">
+            <li><a href="https://www.dmzj.com?pc=1"><span class="a4">返回pc版</span></a></li>
+            <li><a href="https://www.dmzj.com/app/mobile.html"><span class="a5" >下载客户端</span></a></li>
+            <li class="last"><a href="javascript:;" onClick="m_global.toTop()"><span class="a6">返回顶部</span></a></li>
+        </ul>
+
+        <p class="record">©动漫之家2015 京ICP备17012542号-2 <a href="/aboutus/aboutus.html">关于我们</a></p>
+
+	</div>
+    <div class="bottomDown" id="khdDown" style="display:none">
+    	<div class="btm_in">
+            <a href="https://www.dmzj.com/app/mobile.html" class="btm_img"><img src="/images/bottom_bar.png" height="73" title="免费下载"></a>
+            <a class="close" onClick="app_ad.close_appAD()"></a>
+            <a href="https://www.dmzj.com/app/mobile.html" class="app_download"></a>
+        </div>
+
+    </div>
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000465408'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1000465408' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255781707'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1255781707' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</body>
+
+</html>
